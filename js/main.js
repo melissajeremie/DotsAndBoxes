@@ -1,0 +1,1 @@
+console.log('Tis I, the JS file');
