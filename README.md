@@ -10,9 +10,13 @@ A simple JavaScript app based on the classic pen and paper game, [Dots & Boxes](
 * CSS
 
 ### Approach Taken
+...
 
 ### Link to Live Site
+...
 
 ### Installation Instructions
+...
 
 ### Unsolved Problems
+...
